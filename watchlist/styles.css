@@ -1,0 +1,37 @@
+body {
+    background-image: url("space.jpg");
+
+
+}
+
+.header {
+    background-color: rgba(255, 255, 255, 40%);
+    padding: 3%;
+    margin-left: -1%;
+    margin-right: -0.5%;
+    margin-bottom: 3%;
+    margin-top: -1.5%;
+}
+
+.footer {
+    background-color: rgb(255, 255, 255, 40%);
+    padding: 3%;
+    margin-left: -1%;
+    margin-right: -0.5%;
+    margin-top: 20%;
+    text-align: center;
+}
+
+
+.planeten {
+    background-color: rgb(255, 255, 255, 40%);
+    padding: 3%;
+    margin-left: -1%;
+    margin-right: -0.5%;
+    margin-top: 5%;
+
+}
+
+
+
+
